@@ -1,0 +1,42 @@
+path: C:\Users\lpdtd\OneDrive\Documents\GitHub\Cursor\YOLO-ASL\asl_yolo_dataset
+train: images/train
+val: images/val
+
+names:
+  0: 0
+  1: 1
+  2: 2
+  3: 3
+  4: 4
+  5: 5
+  6: 6
+  7: 7
+  8: 8
+  9: 9
+  10: a
+  11: asl_dataset
+  12: b
+  13: c
+  14: d
+  15: e
+  16: f
+  17: g
+  18: h
+  19: i
+  20: j
+  21: k
+  22: l
+  23: m
+  24: n
+  25: o
+  26: p
+  27: q
+  28: r
+  29: s
+  30: t
+  31: u
+  32: v
+  33: w
+  34: x
+  35: y
+  36: z

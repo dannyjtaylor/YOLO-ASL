@@ -31,7 +31,8 @@ fps_counter = 0
 fps = 0
 
 #initalize YOLO model
-model = YOLO("runs/detect/asl_yolo3/weights/best.pt")
+# model = YOLO("runs/detect/asl_yolo3/weights/best.pt")
+model = YOLO("yolo8n.pt")
 #open camera (0 is default)
 cap = cv2.VideoCapture(0)
 

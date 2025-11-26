@@ -1,0 +1,47 @@
+# Large model files (exceed GitHub's 100MB limit)
+*.pt
+!requirements.txt
+
+# Dataset files (too large for git)
+asl_yolo_dataset/
+
+# Training runs and outputs
+runs/
+
+# Python virtual environment
+venv/
+env/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environment variables
+.env
+.env.local
+
+# Logs
+*.log
+
+# Cache files
+*.cache
+.cache/
+
